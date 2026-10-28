@@ -23,7 +23,7 @@ Modelflare 由美国 Havenbyte LLC 运营，一把 API Key 即可调用 GPT、Cl
 | Gemini CLI | [modelflare-gemini-cli](https://github.com/modelflare-ai/modelflare-gemini-cli) |
 | OpenClaw | [modelflare-openclaw](https://github.com/modelflare-ai/modelflare-openclaw) |
 | Dify | [modelflare-dify](https://github.com/modelflare-ai/modelflare-dify) · [modelflare-dify-tools](https://github.com/modelflare-ai/modelflare-dify-tools) |
-| n8n | [n8n-nodes-modelflare](https://github.com/modelflare-ai/n8n-nodes-modelflare) |
+| n8n | [n8n-nodes-modelflare](https://github.com/modelflare-ai/n8n-nodes-modelflare) · verified on n8n Cloud |
 | Zapier | [modelflare-zapier](https://github.com/modelflare-ai/modelflare-zapier) |
 | Make | [modelflare-make](https://github.com/modelflare-ai/modelflare-make) |
 | Coze | [modelflare-coze](https://github.com/modelflare-ai/modelflare-coze) |
